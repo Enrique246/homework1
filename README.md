@@ -37,7 +37,7 @@ What are the steps required to install your project?
 
 ## Usage
 
-![ The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+![ The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Big_Image/01-html-css-git-homework-demo.png)
 <!-- ./Assets/01-html-css-git-homework-demo.png -->
 
 ## Credits
