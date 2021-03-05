@@ -2,9 +2,9 @@
 ## Description
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 - What was your motivation?
-Learn to become one of the best Full-stack webdeveloper.
+  - Learn to become one of the best Full-stack webdeveloper.
 - Why did you build this project? 
-To understand the basis of html and grow my knowlege of CSS
+  - To understand the basis of html and grow my knowlege of CSS
 - What problem does it solve?
 ```
 GIVEN a webpage meets accessibility standards
