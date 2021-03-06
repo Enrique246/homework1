@@ -46,3 +46,5 @@ What are the steps required to install your project?
 ## Tests
 - Grow on hovering works
 - Menu links work
+
+[Link to homework website](https://enrique246.github.io/homework1/ "Profile Homepage")
